@@ -7,3 +7,5 @@
 * [React Virtual Dom](https://github.com/ty19105/blog/issues/3)
 
 * [React Props](https://github.com/ty19105/blog/issues/4)
+
+* [Vue computed、watch、method](https://github.com/ty19105/blog/issues/5)
