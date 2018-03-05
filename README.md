@@ -5,3 +5,5 @@
 * [redux详解](https://github.com/ty19105/blog/issues/2)
 
 * [React Virtual Dom](https://github.com/ty19105/blog/issues/3)
+
+* [React Props](https://github.com/ty19105/blog/issues/4)
