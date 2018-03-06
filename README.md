@@ -9,3 +9,5 @@
 * [React Props](https://github.com/ty19105/blog/issues/4)
 
 * [Vue computed、watch、method](https://github.com/ty19105/blog/issues/5)
+
+* [JavaScript基础知识](https://github.com/ty19105/blog/issues/6)
